@@ -1,13 +1,15 @@
-Menu Items
+
 
 Chicken Wings
 Chicken Noodle Soup
 Fish fingers
 Sushi
+Tomatoes
 Mercedes Benz
 Salad
 Noodles
 Ice cream
+Potatoes
 
 
 Items in my menu
